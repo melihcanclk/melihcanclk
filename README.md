@@ -4,8 +4,8 @@
 - 👯 Looking to collaborate on React and Node.js **but** 
 - 🌱 I’m currently learning **GO Programming Language and Backend Programming over Roadmap.sh**
 
-<h3 style='text-align: center'>For being my friend in roadmap.sh, you can click the badge below. 🤝</h1>    
-<div style='display: flex; justify-content: center'>
+<h3 align="center">For being my friend in roadmap.sh, you can click the badge below. 🤝</h1>    
+<div align="center">
 <a href="https://roadmap.sh/befriend?u=64c445b052c1335d163b1321"><img src="https://api.roadmap.sh/v1-badge/tall/64c445b052c1335d163b1321?variant=dark" alt="roadmap.sh"/></a>
 
 </div>
