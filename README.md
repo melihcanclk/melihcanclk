@@ -6,8 +6,7 @@
 
 <h3 align="center">For being my friend in roadmap.sh, you can click the badge below. 🤝</h1>    
 <div align="center">
-<a href="https://roadmap.sh/befriend?u=64c445b052c1335d163b1321"><img src="https://api.roadmap.sh/v1-badge/tall/64c445b052c1335d163b1321?variant=dark" alt="roadmap.sh"/></a>
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64c445b052c1335d163b1321?variant=dark)](https://roadmap.sh)
 </div>
 
 <h3 align="center">Connect with me:</h3>
