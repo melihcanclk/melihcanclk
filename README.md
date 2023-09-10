@@ -10,7 +10,7 @@
 roadmap.sh badge personal link
 -->
 
-[![Roadmap.sh personal link]([https://api.roadmap.sh/v1-badge/wide/64c445b052c1335d163b1321?variant=dark](https://api.roadmap.sh/v1-badge/tall/64c445b052c1335d163b1321?variant=dark&roadmaps=backend%2Cgolang%2Caspnet-core%2Csql))](https://roadmap.sh/befriend?u=64c445b052c1335d163b1321)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64c445b052c1335d163b1321?variant=dark)]([https://roadmap.sh](https://roadmap.sh/befriend?u=64c445b052c1335d163b1321))
 
 
 
