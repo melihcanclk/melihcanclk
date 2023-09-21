@@ -4,7 +4,6 @@
 - 👯 Looking to collaborate on React and Node.js **but**
 - 🌱 I’m currently learning **GO Programming Language and Backend Programming over Roadmap.sh**
 
-<h3 align="center">For being my friend in roadmap.sh, you can click the badge below. 🤝</h1>    
 <div align="center">
 <!--- 
 roadmap.sh badge personal link
