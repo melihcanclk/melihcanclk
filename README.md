@@ -13,10 +13,12 @@ roadmap.sh badge personal link
 
 <p align="center">
 <a href="https://www.github.com/melihcanclk" target="_blank"><img  align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="40" /></a>
-<a href="https://twitter.com/melihcanclk" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="melihcanclk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/melihcanclk" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="melihcanclk" height="30" width="40" /></a>
+<!--- 
+ <a href="https://twitter.com/melihcanclk" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="melihcanclk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCPJJ60e3lCzM4uh28HSoTiQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@melihcancilek3839" height="30" width="40" /></a>
 </p>
+-->
 
 <!---
 -->
