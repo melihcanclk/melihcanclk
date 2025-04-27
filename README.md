@@ -2,7 +2,7 @@
 <h3 align="center">A passionate life-time enthusiastic learner</h3>
 
 - 👯 I have hands on experience with **React**, **Node.js** and **Javascript** technologies 
-- 🌱 I’m currently working with **Java, Spring Boot**, try to improve myself in **GO Programming Language and Backend Development**.
+- 🌱 I’m currently working with **Kotlin** and try to improve myself in **Mobile Application Development**.
 
 <div align="center">
 <!--- 
